@@ -1,0 +1,10 @@
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game Project.exe.config
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game Project.exe
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\bin\Debug\Tic-Tac-Toe Game Project.pdb
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.AssemblyReference.cache
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game_Project.Properties.Resources.resources
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic_Tac_Toe_Game_Project.Tic_Tac_Toe_Game.resources
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.GenerateResource.cache
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game.csproj.CoreCompileInputs.cache
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game Project.exe
+D:\ToGithub\Applications-On-Windows-Forms\Tic-Tac-Toe Game\obj\Debug\Tic-Tac-Toe Game Project.pdb

@@ -1,0 +1,10 @@
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\bin\Debug\Pizza_Project.exe.config
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\bin\Debug\Pizza_Project.exe
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\bin\Debug\Pizza_Project.pdb
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza-Cashier.csproj.AssemblyReference.cache
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza_Cashier.frmPizzaCashier.resources
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza_Project.Properties.Resources.resources
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza-Cashier.csproj.GenerateResource.cache
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza-Cashier.csproj.CoreCompileInputs.cache
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza_Project.exe
+D:\ToGithub\Applications-On-Windows-Forms\Pizza-Cashier\obj\Debug\Pizza_Project.pdb
